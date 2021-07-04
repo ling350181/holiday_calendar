@@ -1,0 +1,117 @@
+{
+    "code": 0,
+    "holiday": {
+      "01-01": {
+        "holiday": true,
+        "name": "元旦",
+        "wage": 3,
+        "date": "2021-01-01"
+      },
+      "02-12": {
+        "holiday": true,
+        "name": "農曆年初一",
+        "wage": 3,
+        "date": "2021-02-12"
+      },
+      "02-13": {
+        "holiday": true,
+        "name": "農曆年初二",
+        "wage": 3,
+        "date": "2021-02-13"
+      },
+      "02-14": {
+        "holiday": true,
+        "name": "農曆年初三",
+        "wage": 3,
+        "date": "2021-02-14"
+      },
+      "02-15": {
+        "holiday": true,
+        "name": "農曆年初四",
+        "wage": 2,
+        "date": "2021-02-15"
+      },
+      "04-02": {
+        "holiday": true,
+        "name": "耶穌受難節",
+        "wage": 2,
+        "date": "2021-04-02"
+      },
+      "04-03": {
+        "holiday": true,
+        "name": "耶穌受難節翌日",
+        "wage": 2,
+        "date": "2021-04-03"
+      },
+      "04-05": {
+        "holiday": true,
+        "name": "清明節翌日",
+        "wage": 2,
+        "date": "2021-04-05"
+      },
+      "04-06": {
+        "holiday": false,
+        "name": "復活節星期一翌日",
+        "wage": 2,
+        "date": "2021-04-06"
+      },
+      "05-01": {
+        "holiday": true,
+        "name": "勞動節",
+        "wage": 3,
+        "date": "2021-05-01"
+      },
+      "05-19": {
+        "holiday": true,
+        "name": "佛誕",
+        "wage": 2,
+        "date": "2021-05-02",
+        "rest": 1
+      },
+      "06-14": {
+        "holiday": true,
+        "name": "端午節",
+        "wage": 3,
+        "date": "2021-06-14"
+      },
+      "07-01": {
+        "holiday": true,
+        "name": "香港特別行政區成立紀念日",
+        "wage": 3,
+        "date": "2021-07-01"
+      },
+      "09-22": {
+        "holiday": true,
+        "name": "中秋節翌日",
+        "wage": 3,
+        "date": "2021-09-22"
+      },
+      "10-01": {
+        "holiday": true,
+        "name": "國慶日",
+        "wage": 3,
+        "date": "2021-10-01"
+      },
+      "10-14": {
+        "holiday": false,
+        "name": "重陽節",
+        "after": true,
+        "wage": 1,
+        "date": "2021-10-14"
+      },
+      "12-25": {
+        "holiday": false,
+        "name": "聖誕節",
+        "after": true,
+        "wage": 1,
+        "date": "2021-12-25"
+      },
+      "12-27": {
+        "holiday": false,
+        "name": "聖誕節後第一個周日",
+        "after": true,
+        "wage": 1,
+        "date": "2021-12-25"
+      }
+    }
+  }
