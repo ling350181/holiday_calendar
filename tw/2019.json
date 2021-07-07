@@ -1,0 +1,94 @@
+{
+    "holiday": {
+      "01-01": {
+        "holiday": true,
+        "name": "中華民國開國紀念日",
+        "wage": 3,
+        "date": "2019-01-01"
+      },
+      "02-04": {
+        "holiday": true,
+        "name": "農曆除夕",
+        "wage": 3,
+        "date": "2019-02-04"
+      },
+      "02-05": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2019-02-05"
+      },
+      "02-06": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2019-02-06"
+      },
+      "02-07": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2019-02-07"
+      },
+      "02-08": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2019-02-08"
+      },
+      "02-28": {
+        "holiday": true,
+        "name": "和平記念日",
+        "wage": 2,
+        "date": "2019-02-28"
+      },
+      "03-01": {
+        "holiday": true,
+        "name": "和平記念日（休假日） ",
+        "wage": 2,
+        "date": "2019-03-01"
+      },
+      "04-04": {
+        "holiday": true,
+        "name": "兒童節",
+        "wage": 2,
+        "date": "2019-04-04"
+      },
+      "04-05": {
+        "holiday": true,
+        "name": "民族掃墓節",
+        "wage": 2,
+        "date": "2019-04-05"
+      },
+      "06-07": {
+        "holiday": true,
+        "name": "端午節",
+        "wage": 3,
+        "date": "2019-06-07"
+      },
+      "09-13": {
+        "holiday": true,
+        "name": "中秋節",
+        "wage": 3,
+        "date": "2019-09-13"
+      },
+      "10-02": {
+        "holiday": true,
+        "name": "中秋節（休假日）",
+        "wage": 3,
+        "date": "2019-10-02"
+      },
+      "10-10": {
+        "holiday": true,
+        "name": "國慶日",
+        "wage": 3,
+        "date": "2019-10-10"
+      },
+      "10-11": {
+        "holiday": true,
+        "name": "國慶日（休假日）",
+        "wage": 3,
+        "date": "2019-10-11"
+      }
+    }
+  }

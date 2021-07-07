@@ -1,0 +1,94 @@
+{
+    "holiday": {
+      "01-01": {
+        "holiday": true,
+        "name": "中華民國開國紀念日",
+        "wage": 3,
+        "date": "2018-01-01"
+      },
+      "02-15": {
+        "holiday": true,
+        "name": "農曆除夕",
+        "wage": 3,
+        "date": "2018-02-15"
+      },
+      "02-16": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2018-02-16"
+      },
+      "02-17": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2018-02-17"
+      },
+      "02-18": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2018-02-18"
+      },
+      "02-19": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2018-02-19"
+      },
+      "02-20": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2018-02-20"
+      },
+      "02-28": {
+        "holiday": true,
+        "name": "和平記念日",
+        "wage": 2,
+        "date": "2018-02-28"
+      },
+      "04-04": {
+        "holiday": true,
+        "name": "兒童節",
+        "wage": 2,
+        "date": "2018-04-04"
+      },
+      "04-05": {
+        "holiday": true,
+        "name": "民族掃墓節",
+        "wage": 2,
+        "date": "2018-04-05"
+      },
+      "04-06": {
+        "holiday": true,
+        "name": "民族掃墓節（休假日）",
+        "wage": 2,
+        "date": "2018-04-06"
+      },
+      "06-18": {
+        "holiday": true,
+        "name": "端午節",
+        "wage": 3,
+        "date": "2018-06-18"
+      },
+      "09-24": {
+        "holiday": true,
+        "name": "中秋節",
+        "wage": 3,
+        "date": "2018-09-24"
+      },
+      "10-10": {
+        "holiday": true,
+        "name": "國慶日",
+        "wage": 3,
+        "date": "2018-10-10"
+      },
+      "12-31": {
+        "holiday": true,
+        "name": "補假（中華民國開國紀念日）",
+        "wage": 3,
+        "date": "2018-12-31"
+      }
+    }
+  }

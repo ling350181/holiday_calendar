@@ -1,0 +1,118 @@
+{
+    "holiday": {
+      "01-01": {
+        "holiday": true,
+        "name": "中華民國開國紀念日",
+        "wage": 3,
+        "date": "2020-01-01"
+      },
+      "01-23": {
+        "holiday": true,
+        "name": "農曆除夕前一日",
+        "wage": 3,
+        "date": "2020-01-23"
+      },
+      "01-24": {
+        "holiday": true,
+        "name": "農曆除夕",
+        "wage": 3,
+        "date": "2020-01-24"
+      },
+      "01-25": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2020-01-25"
+      },
+      "01-26": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2020-01-26"
+      },
+      "01-27": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2020-01-27"
+      },
+      "01-28": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2020-01-28"
+      },
+      "01-29": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2020-01-29"
+      },
+      "02-28": {
+        "holiday": true,
+        "name": "和平記念日",
+        "wage": 2,
+        "date": "2020-02-28"
+      },
+      "03-01": {
+        "holiday": true,
+        "name": "補假（和平記念日） ",
+        "wage": 2,
+        "date": "2020-03-01"
+      },
+      "04-02": {
+        "holiday": true,
+        "name": "補假（兒童節）",
+        "wage": 2,
+        "date": "2020-04-02"
+      },
+      "04-03": {
+        "holiday": true,
+        "name": "補假（民族掃墓節）",
+        "wage": 2,
+        "date": "2020-04-03"
+      },
+      "04-04": {
+        "holiday": true,
+        "name": "兒童節/民族掃墓節",
+        "wage": 2,
+        "date": "2020-04-04"
+      },
+      "06-25": {
+        "holiday": true,
+        "name": "端午節",
+        "wage": 3,
+        "date": "2020-06-25"
+      },
+      "06-26": {
+        "holiday": true,
+        "name": "端午節（休假日）",
+        "wage": 3,
+        "date": "2020-06-26"
+      },
+      "10-01": {
+        "holiday": true,
+        "name": "中秋節",
+        "wage": 3,
+        "date": "2020-10-01"
+      },
+      "10-02": {
+        "holiday": true,
+        "name": "中秋節（休假日）",
+        "wage": 3,
+        "date": "2020-10-02"
+      },
+      "10-09": {
+        "holiday": true,
+        "name": "補假（國慶日）",
+        "wage": 3,
+        "date": "2020-10-09"
+      },
+      "10-10": {
+        "holiday": true,
+        "name": "國慶日",
+        "wage": 1,
+        "date": "2020-10-10"
+      }
+    }
+  }
