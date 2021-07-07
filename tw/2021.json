@@ -1,0 +1,124 @@
+{
+    "holiday": {
+      "01-01": {
+        "holiday": true,
+        "name": "中華民國開國紀念日",
+        "wage": 3,
+        "date": "2021-01-01"
+      },
+      "02-10": {
+        "holiday": true,
+        "name": "農曆除夕前一日",
+        "wage": 3,
+        "date": "2021-02-10"
+      },
+      "02-11": {
+        "holiday": true,
+        "name": "農曆除夕",
+        "wage": 3,
+        "date": "2021-02-11"
+      },
+      "02-12": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2021-02-12"
+      },
+      "02-13": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2021-02-13"
+      },
+      "02-14": {
+        "holiday": true,
+        "name": "春節",
+        "wage": 3,
+        "date": "2021-02-14"
+      },
+      "02-15": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2021-02-15"
+      },
+      "02-16": {
+        "holiday": true,
+        "name": "補假（春節）",
+        "wage": 2,
+        "date": "2021-02-16"
+      },
+      "02-20": {
+        "holiday": false,
+        "name": "補行上班",
+        "wage": 2,
+        "date": "2021-02-20"
+      },
+      "02-28": {
+        "holiday": true,
+        "name": "和平記念日",
+        "wage": 2,
+        "date": "2021-02-28"
+      },
+      "03-01": {
+        "holiday": true,
+        "name": "補假（和平記念日） ",
+        "wage": 2,
+        "date": "2021-03-01"
+      },
+      "04-02": {
+        "holiday": true,
+        "name": "補假（兒童節）",
+        "wage": 2,
+        "date": "2021-04-02"
+      },
+      "04-04": {
+        "holiday": true,
+        "name": "兒童節/民族掃墓節",
+        "wage": 2,
+        "date": "2021-04-04"
+      },
+      "04-05": {
+        "holiday": true,
+        "name": "補假（民族掃墓節）",
+        "wage": 2,
+        "date": "2021-04-05"
+      },
+      "06-14": {
+        "holiday": true,
+        "name": "端午節",
+        "wage": 3,
+        "date": "2021-06-14"
+      },
+      "09-20": {
+        "holiday": true,
+        "name": "休假日",
+        "wage": 3,
+        "date": "2021-09-20"
+      },
+      "09-21": {
+        "holiday": true,
+        "name": "中秋節",
+        "wage": 3,
+        "date": "2021-09-21"
+      },
+      "10-10": {
+        "holiday": true,
+        "name": "國慶日",
+        "wage": 3,
+        "date": "2021-10-10"
+      },
+      "10-11": {
+        "holiday": true,
+        "name": "補假（國慶日）",
+        "wage": 1,
+        "date": "2021-10-11"
+      },
+      "12-31": {
+        "holiday": true,
+        "name": "補假（中華民國開國紀念日）",
+        "wage": 1,
+        "date": "2021-12-31"
+      }
+    }
+  }
